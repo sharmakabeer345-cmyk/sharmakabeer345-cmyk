@@ -30,7 +30,7 @@ An end-to-end data analytics project focused on exploring bank loan data, evalua
 
 **Tools Used:** SQL · PostgreSQL · Microsoft Power BI
 
-🔗 **[View Bank Loan Analysis Project](https://github.com/sharmakabeer345-cmyk)**
+🔗 **[View Bank Loan Analysis Project]([https://github.com/sharmakabeer345-cmyk](https://github.com/sharmakabeer345-cmyk/bank-loan-sql-analysis))**
 
 ## 📈 What I'm Working On
 
