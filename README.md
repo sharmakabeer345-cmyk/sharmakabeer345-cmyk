@@ -1,6 +1,6 @@
 # Hi, I'm Kabeer Sharma 👋
 
-### Aspiring Business Intelligence Analyst | SQL | Power BI | PostgreSQL | Excel 📊
+### Aspiring Business Analyst | SQL | Power BI | PostgreSQL | Excel 📊
 
 I'm an aspiring **Business Intelligence Analyst** passionate about transforming raw data into meaningful insights that support smarter, data-driven business decisions. I enjoy analyzing datasets, writing SQL queries, building interactive Power BI dashboards, and identifying trends that help solve real-world business problems.
 
